@@ -37,5 +37,16 @@ const RESOURCES = {
       downloadFile: "assets/files/assignments/F&B Whisky.docx",
       downloadName: "Whisky & Classification"
     },
+    {
+      id: "asgn-2",
+      title: "Hospitality Marketing",
+      subject: "Assignment",
+      description: "Hospitality Marketing Unit 1 Assignment",
+      thumbnail: "assets/images/assignments/HMA.png",
+      previewType: "image",
+      previewSrc: "assets/images/assignments/HMA.png",
+      downloadFile: "assets/files/assignments/Marketing Unit 1 Assignment.docx",
+      downloadName: "Marketing Unit 1 Assignment"
+    },
   ]
 };
