@@ -14,14 +14,14 @@ const RESOURCES = {
     },
     {
       id: "note-ch2",
-      title: "Unit 2 - Food & Beverage Service Note",
+      title: "Unit 1 - Food & Beverage Service Note",
       subject: "Note",
-      description: "Food & Beverage Service Note",
+      description: "Food & Beverage Service Note [FIXED]",
       thumbnail: "assets/images/notes/F & B - Unit 1.png",
       previewType: "image",
       previewSrc: "assets/images/notes/F & B - Unit 1.png",
       downloadFile: "assets/files/notes/F&B Service Unit 1.docx",
-      downloadName: "Unit 2 - Food & Beverage Service.docx"
+      downloadName: "Unit 1 - Food & Beverage Service.docx"
     },
   ],
 
