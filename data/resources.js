@@ -19,7 +19,7 @@ const RESOURCES = {
       description: "Food & Beverage Service Note [FIXED]",
       thumbnail: "assets/images/notes/F & B - Unit 1.png",
       previewType: "image",
-      previewSrc: "assets/images/notes/F & B - Unit 1.png",
+      previewSrc: "assets/files/notes/F&B Service Unit 1.docx",
       downloadFile: "assets/files/notes/F&B Service Unit 1.docx",
       downloadName: "Unit 1 - Food & Beverage Service.docx"
     },
