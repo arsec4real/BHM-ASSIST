@@ -248,7 +248,7 @@ async function triggerDownload() {
       </svg>
       Downloaded!`;
 
-    showToast('🎉', `Thank you for using <strong>Sushant Sapkota's Resources!</strong>`);
+    showToast('🎉', `Thank you for using <strong>Sushant's Resources!</strong>`);
 
   } catch (err) {
     downloadBtn.classList.remove('loading');
