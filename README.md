@@ -1,2 +1,1 @@
-# BHM-ASSIST
-This website includes BHM 4th semster Notes and Assignments of BIC (Pokhara University).
+This website has been removed by the User and it will not be continued now on.
